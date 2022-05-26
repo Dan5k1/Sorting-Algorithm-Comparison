@@ -1,0 +1,1 @@
+Implementation of a program to compare different sorting algorithms. Includes megesort, quicksort and insertion sort.
